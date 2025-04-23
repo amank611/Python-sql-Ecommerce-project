@@ -1,8 +1,8 @@
 # 🛒 Ecommerce Data Analytics Project
-📌 Overview
+## 📌 Overview
 This project involves deep-diving into an Ecommerce dataset using Python, MySQL, and Data Visualization tools to extract actionable business insights. The project covers data ingestion, preprocessing, SQL-based analytics, and graphical reporting.
 
-📂 Dataset
+## 📂 Dataset
 The dataset includes information from an Ecommerce platform with the following CSV files:
 
 customers.csv
@@ -21,7 +21,7 @@ geolocation.csv
 
 All data was loaded into a MySQL database for analysis.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Python (Pandas, NumPy)
 
 MySQL / PyMySQL
@@ -30,7 +30,7 @@ Matplotlib & Seaborn
 
 Jupyter Notebook
 
-🔍 Key Insights & Queries
+## 🔍 Key Insights & Queries
 📍 Unique cities where customers are located
 
 📅 Orders placed by month/year and monthly trends in 2018
@@ -47,14 +47,14 @@ Jupyter Notebook
 
 📊 Correlation between product price and purchase volume
 
-📊 Visualizations
+## 📊 Visualizations
 Bar charts of monthly sales trends and customer distributions
 
 Pie chart of product category revenue contributions
 
 Line plot of year-over-year sales growth
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository
 
 Set up MySQL and import the CSV files using the script
@@ -63,6 +63,6 @@ Configure DB connection in Python
 
 Run the analysis and visualization cells in the notebook
 
-📌 Results
+## 📌 Results
 The analysis helped identify customer behavior, category performance, and revenue trends, which are critical for marketing, inventory, and financial planning.
 
